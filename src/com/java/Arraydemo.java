@@ -20,7 +20,9 @@ public class Arraydemo {
 			System.out.println(a[i]);
 			
 		}
-
+		
+		
+		
 	}
 
 }
